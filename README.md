@@ -1,0 +1,2 @@
+# CodeKata
+Practice practice practice
